@@ -1,6 +1,8 @@
-## Hi there 👋
 
 <!--
+
+## Hi there 👋
+
 **crowlandsCH/crowlandsCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -35,7 +37,10 @@ I’m a software developer with ~3 years of professional experience, focused on 
 ## Technical Skills
 **Languages**
 - JavaScript / TypeScript  
-- Python  
+- Java Spring boot
+- Python
+- Perl
+- Golang
 
 **Tools & Technologies**
 - Git & GitHub  
@@ -59,15 +64,14 @@ I’m a software developer with ~3 years of professional experience, focused on 
 ## Featured Projects
 Selected projects that showcase problem-solving, structure, and technical decision-making:
 
-- **Project Name**  
-  Designed and implemented a solution addressing *specific problem*, with attention to architecture and long-term maintainability  
-  **Impact:** Reduced complexity, improved developer experience, or enabled reuse  
-  👉 https://github.com/crowlandsCH/PROJECT_REPO
+- **Primary Search Upgrade (Elasticsearch 6 → 7)**  
+  Improved reliability, performance, and security of core search functionality used by millions of users. Strengthened automated test coverage and resilience of backend services.
 
-- **Project Name**  
-  Built an application or tool using *key technologies* to solve a real-world use case  
-  **Impact:** Demonstrates ownership, clean implementation, and practical delivery  
-  👉 https://github.com/crowlandsCH/PROJECT_REPO
+- **Filing History Data Sync**  
+  Built Kafka driven Java services synchronising Oracle SQL systems of record to downstream services. Implemented CQRS patterns to ensure data consistency across distributed systems, handling high volume    filings with resilience. Services auto-scaled to easily handled between ~60-120 hits per second over 30 minute, 1 hour and 2 hour load times. 
+
+  - **Officers Data Sync**
+  Reverse engineered legacy Perl and Golang applications into modern, containerised Spring Boot services deployed on AWS ECS. Improving data integrity, security and long term maintainability. 
 
 ---
 
@@ -106,7 +110,7 @@ Selected projects that showcase problem-solving, structure, and technical decisi
 
 ## Contact & Opportunities
 - 💬 Open to mid-level software engineering roles
-- 📩 Best way to reach me is via GitHub
+- 📩 Best way to reach me is via LinkedIn or email
 
 ---
 

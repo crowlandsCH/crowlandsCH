@@ -51,7 +51,6 @@ I’m a software developer with ~3 years of professional experience, focused on 
 ---
 
 ## Impact & Experience Highlights
-> Demonstrating ownership, delivery, and technical contribution
 
 - 📦 Contributed to and maintained **multiple production and personal repositories**, spanning feature development, refactoring, and experimentation
 - 🛠️ Delivered **end-to-end features** (design → implementation → iteration), taking ownership of technical decisions
@@ -70,33 +69,8 @@ Selected projects that showcase problem-solving, structure, and technical decisi
 - **Filing History Data Sync**  
   Built Kafka driven Java services synchronising Oracle SQL systems of record to downstream services. Implemented CQRS patterns to ensure data consistency across distributed systems, handling high volume    filings with resilience. Services auto-scaled to easily handled between ~60-120 hits per second over 30 minute, 1 hour and 2 hour load times. 
 
-  - **Officers Data Sync**
+- **Officers Data Sync**
   Reverse engineered legacy Perl and Golang applications into modern, containerised Spring Boot services deployed on AWS ECS. Improving data integrity, security and long term maintainability. 
-
----
-
-## GitHub Activity Overview
-
-### Overall Stats
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=crowlandsCH&show_icons=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crowlandsCH&layout=compact" />
-</p>
-
-### Contribution Streak
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=crowlandsCH&hide_border=true" />
-</p>
-
-### Long-Term Contribution Graph
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crowlandsCH&area=true&hide_border=true" />
-</p>
-
-### All-Time Profile Summary
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crowlandsCH&theme=default" />
-</p>
 
 ---
 
@@ -109,7 +83,7 @@ Selected projects that showcase problem-solving, structure, and technical decisi
 ---
 
 ## Contact & Opportunities
-- 💬 Open to mid-level software engineering roles
+- 💬 Open to mid-level to senior software engineering roles
 - 📩 Best way to reach me is via LinkedIn or email
 
 ---
